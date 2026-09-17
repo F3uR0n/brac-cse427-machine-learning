@@ -1,4 +1,4 @@
-# CSE427 — Machine Learning
+# CSE427 Machine Learning
 
 ![Course](https://img.shields.io/badge/Course-CSE427-0d1117?style=flat-square&labelColor=0d1117&color=238636)
 ![Semester](https://img.shields.io/badge/Semester-Summer%202026-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
@@ -25,6 +25,9 @@ Lab work, assignments, and course materials for **CSE427: Machine Learning** [Su
 | Lab 5 | Softmax Regression | `Dry_Beans_Dataset.csv` | Multi-class classification, cross-entropy loss |
 | Lab 6 | Principal Component Analysis (PCA) | — | Dimensionality reduction, eigenvectors, variance |
 | Lab 7 | Multilayer Perceptron (MLP) | — | Feedforward networks, backpropagation, activation functions |
+| Lab 8 | Project Work | — | — |
+| Lab 9 | Project Work | — | — |
+| Lab 10| Project Work | — | — |
 
 ---
 
