@@ -6,13 +6,11 @@
 ![Language](https://img.shields.io/badge/Language-Python-0d1117?style=flat-square&labelColor=0d1117&color=3178c6)
 ![Notebooks](https://img.shields.io/badge/Tool-Jupyter%20Notebook-0d1117?style=flat-square&labelColor=0d1117&color=f97316)
 
-Lab work, assignments, and course materials for **CSE427: Machine Learning** [Summer 2026] at BRAC University. Covers classical ML algorithms through to deep learning architectures, with hands-on Jupyter Notebook implementations and datasets.
-
 ---
 
 ## Overview
 
-This repository contains all lab notebooks, reference implementations, course slides, practice problems, and the IEEE-format project LaTeX template for CSE427. Each lab follows a two-notebook pattern: a reference notebook with the in-class walkthrough, and a separate submission notebook containing the own work.
+Lab work, assignments, and course materials for **CSE427: Machine Learning** [Summer 2026] at BRAC University. Covers classical ML algorithms through to deep learning architectures, with hands-on Jupyter Notebook implementations and datasets. This repository contains all lab notebooks, reference implementations, course slides, practice problems, and the IEEE-format project LaTeX template for CSE427. Each lab follows a two-notebook pattern: a reference notebook with the in-class walkthrough, and a separate submission notebook containing the own work.
 
 ---
 
@@ -134,42 +132,5 @@ The course slide set covers the following topics across 15 lecture modules:
 - Recurrent Neural Networks (RNN) and LSTM
 - Word Embeddings and Positional Encoding
 - Transformer architecture
-
----
-
-## Setup and Running Notebooks
-
-**Prerequisites:** Python 3.8+, pip
-
-**Install dependencies:**
-
-```bash
-pip install numpy pandas matplotlib scikit-learn openpyxl jupyter
-```
-
-**Launch Jupyter:**
-
-```bash
-jupyter notebook
-```
-
-Open any lab notebook from its respective directory. Ensure the accompanying dataset (`.csv` / `.xlsx`) is present in the same folder as the notebook before running cells.
-
----
-
-## Project Report
-
-The `Project Latex Format/` directory contains the IEEE conference paper template (`IEEEtran`) for writing the course project report.
-
-**Compile with:**
-
-```bash
-pdflatex conference_101719.tex
-bibtex conference_101719
-pdflatex conference_101719.tex
-pdflatex conference_101719.tex
-```
-
-Refer to `IEEEtran_HOWTO.pdf` for detailed formatting instructions.
 
 ---
